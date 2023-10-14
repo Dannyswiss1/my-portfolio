@@ -53,4 +53,10 @@ This is a simple portfolio website created with React. It showcases the work of 
   This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
 
 
+### Project by:
+  * Name: Daniel Joseph (Dannyswiss)
+  * X handle: @Tiya_JD
+  
+
+
 
